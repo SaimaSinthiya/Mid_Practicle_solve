@@ -9,7 +9,7 @@
     font-family: "Roboto", "Poppins", sans-serif;
   }
   header {
-    background: skyblue;
+    background: rgb(139, 201, 172);
     padding: 20px;
   }
   header nav {
@@ -27,7 +27,7 @@
   }
   
   nav ul li {
-    background: teal;
+    background: rgb(7, 156, 156);
     padding: 8px 12px;
     border-radius: 5px;
   }
